@@ -1,1 +1,1 @@
-# sql-challenge (A Mystery in Two Parts)
+# SQL-challenge (A Mystery in Two Parts)
